@@ -1,1 +1,1 @@
-Freshman currently learning about cyber security
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white%22%20alt=%22LinkedIn%20Badge)](your-linkedin-url)Freshman currently learning about cyber security
